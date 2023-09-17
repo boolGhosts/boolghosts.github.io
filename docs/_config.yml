@@ -28,13 +28,8 @@ url: "https://boolghosts.github.io/" # the base hostname & protocol for your sit
 github_username:  boolGhosts
 
 # Build settings
-<<<<<<< HEAD
 #theme: no-style-please
 remote_theme: pages-themes/dinky@v0.2.0
-=======
-#theme: minima
-remote-theme: no-style-please
->>>>>>> 44c70111a4001b6ab154ce8b8c9c18ecd48e6043
 plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
