@@ -3,11 +3,9 @@ layout: post
 title:  "Zuess"
 date:   2023-09-17 14:00:39 +0000
 categories: jekyll update
+line: zeuss
 ---
 
-## Add images
+Zues 3D5 and Zues 2E2 Hard-key units with display. Plant control units, run charts, device control faceplates and circle chart.
 
-![Zeuss 3d5 and 2e2]({{ "/assets/z3d5_z2e2.png" | relative_url }})
-
-
-![Alt text](/assets/z3d5_z2e2.png)
+![Zuess 3d5 and 2e2](/assets/z3d5_z2e2.png)
