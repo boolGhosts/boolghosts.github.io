@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+## Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -28,9 +28,11 @@ url: "https://boolghosts.github.io/" # the base hostname & protocol for your sit
 github_username:  boolGhosts
 
 # Build settings
-theme: minima
+#theme: no-style-please
+remote_theme: pages-themes/dinky@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
 # The following items will not be processed, by default.
